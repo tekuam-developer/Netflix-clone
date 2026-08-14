@@ -1,0 +1,42 @@
+
+
+.banner-wraper{
+    height: 75vh;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+.text-content{
+    padding-top: 300px;
+    color: cadetblue;
+}
+.bottom{
+    height: 40vh;
+    background-image: linear-gradient(180deg, transparent,
+    rgb(37,37,37,0.99),
+    #111
+    );
+}
+.play,.Mylists{
+    border-radius: 45px !important;
+    width: 100px;
+    margin: 10px;
+}
+.play:hover,.Mylists:hover{
+    border-bottom: 4px solid sandybrown !important;
+  background-color: palegreen !important;
+  color: black !important;
+}
+.discription{
+    font-size: 30px;
+    padding: 30px 50% 0 0;
+    color: slateblue;
+}
+.title{
+    color: tomato;
+    font-size: 50px;
+}
+.Banner-button{
+    width: 400px;
+    margin: 0 auto;
+}
