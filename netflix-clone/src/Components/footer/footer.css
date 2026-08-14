@@ -1,0 +1,8 @@
+.footer-icons{
+    display: flex;
+    gap: 15px;
+    cursor: pointer;
+}
+.footer-wraper{
+    color: wheat;
+}
