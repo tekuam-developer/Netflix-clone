@@ -1,0 +1,53 @@
+.posture-image{
+    width: 100% !important;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+.titles{
+    color: darkgreen;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+
+}
+.posture:hover{
+   transform: scale(1.02);
+}
+.posture{
+       overflow: visible;
+}
+
+
+.traile-container{
+    width: 100%;
+    max-width: 900px;
+    margin: 20px auto;
+    background-color: saddlebrown;
+    border: 30px solid darkblue;
+    border-radius: 30px;
+}
+.traile-container iframe {
+  width: 100%;
+}
+@media(max-width:600px){
+    .posture{
+    margin-top: 50px !important;
+}
+}
+.favorite {
+  background: none;
+  border: none;
+  font-size: 30px;
+  cursor: pointer;
+  filter: grayscale(1);
+  transition: 0.3s;
+}
+
+.favorite.active {
+  filter: grayscale(0);
+}
+.my-row{
+    display: flex;
+    overflow-y: hidden;
+    gap: 10px;
+    overflow-x: scroll;
+}

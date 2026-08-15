@@ -1,0 +1,1712 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "OkbIrhLCyq7iJHYpsADC-d1PCb0",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "ET",
+  "pageInfo": {
+    "totalResults": 3030,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7Sdzn8vc3V6ihkOwQ5MTPisYB2c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QSUBnf8fQiw"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-14T14:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ፈርሶ ይሰራ ፊልም የተቀነጨበ Clip from Ferso Yesera film Ethiopian movie 2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QSUBnf8fQiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QSUBnf8fQiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QSUBnf8fQiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-14T14:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "syqFDEhsO_0hwPljo4buIlP67m0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H6-FRHq9PpY"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-14T12:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "የቀበሌ ቤት Yekebele bet clip Ethiopian movie 2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H6-FRHq9PpY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H6-FRHq9PpY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H6-FRHq9PpY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-14T12:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4SIBKhZLLz3EptVmn5Xl2anw1hY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WlQ-J2JRl7g"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-14T09:00:22Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ከ አደረግሽኝ ቀና ፊልም ላይ የተቀነጨበ Clip from  aderekshign kena Ethiopian movie 2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WlQ-J2JRl7g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WlQ-J2JRl7g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WlQ-J2JRl7g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-14T09:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-RxWL4s4yb1rQkXsDD7OrfJV0u4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t2ErFfrX_UM"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-13T13:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ወደ ኋላ ፊልም የተቀነጨበ Clip from Wede Huala film Ethiopian movie 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t2ErFfrX_UM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t2ErFfrX_UM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t2ErFfrX_UM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-13T13:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MUJSscayb_ZZpKRJkQujAA88MIw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7EDgsPjvZwY"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-13T10:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ትግል ለትዳሬ Tigele Letidare clip from Ethiopian movie 2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7EDgsPjvZwY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7EDgsPjvZwY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7EDgsPjvZwY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-13T10:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Mx7Hb1duAgoxGev29Rcc39ICIXU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fa1_iOYMtiU"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-13T08:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ስንክ ሳር sink sar clip from ethiopian movie 2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fa1_iOYMtiU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fa1_iOYMtiU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fa1_iOYMtiU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-13T08:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uk_aRBZJnpuQIGGEx6dgyuOCsFk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IZ3nzaIFiyU"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-13T07:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "መግደል መሸነፍ ነው megdel meshnef new Ethiopian movie clip 2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IZ3nzaIFiyU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IZ3nzaIFiyU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IZ3nzaIFiyU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-13T07:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CH7AcOpYgYpI_BTx76owCi_HKoc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JFdT51Jlf-4"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-12T19:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ሄሎፊልም የተቀነጨበ Clip from Hello film Ethiopian movie 2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JFdT51Jlf-4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JFdT51Jlf-4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JFdT51Jlf-4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-12T19:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JEotPzBTkWGZqrkbt7_IUj1VHXU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I-7NShYcRRw"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-12T18:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ውሰደኝ wesedegn clip from Ethiopian movie 2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I-7NShYcRRw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I-7NShYcRRw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I-7NShYcRRw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-12T18:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W30udeVy5-oT9rYGaWjFjuc3hdc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GKknLFFhaRc"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-12T17:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ዛሬ አበባ zare abeba clip from Ethiopian movie 2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GKknLFFhaRc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GKknLFFhaRc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GKknLFFhaRc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-12T17:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9sP3CHFjYi1Oovahj-Se4Utm9QU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yk2wqb_wNvk"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-12T16:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "በምን እንግባባ Bemen Engibaba clip from Ethiopian movie 2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yk2wqb_wNvk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yk2wqb_wNvk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yk2wqb_wNvk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-12T16:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5ldkTcJHlc_lwhozmepUTljpVWQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kmNJO7YDTLY"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-12T14:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "እያየሽኝ Eyayeshign Ethiopian movie clip 2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kmNJO7YDTLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kmNJO7YDTLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kmNJO7YDTLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-12T14:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dUkVH-jjbgn1Qwv0xWkK7wF2EiM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X452Yp2STts"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-12T13:00:07Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ልስጥሽ  ፊልም Clip Ethiopian movie 2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X452Yp2STts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X452Yp2STts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X452Yp2STts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-12T13:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M-eWK2Hiog_SsYzTJdW-NQo0TXo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_8FJ_ds1xwU"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-12T12:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "እርቅ ይሁንፊልም የተቀነጨበ Clip from IrkYehun film Ethiopian movie 2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_8FJ_ds1xwU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_8FJ_ds1xwU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_8FJ_ds1xwU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-12T12:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g6rUExLyTKM9TEaKvoRQdCVQ4jY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uxkR0C7xdeA"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-12T11:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ማፍያዎቹ  ፊልም የተቀነጨበ Clip from mafyawochu film Ethiopian movie 2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uxkR0C7xdeA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uxkR0C7xdeA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uxkR0C7xdeA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-12T11:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FruexCwBbnO6SQSxF-roIxGe8Wo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wuDEf_XOZno"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-12T10:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ማን አለኝ man alegne clip Ethiopian movie 2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wuDEf_XOZno/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wuDEf_XOZno/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wuDEf_XOZno/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-12T10:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ffTCS8YSJg_Ay51z4RDP41QlhqA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6ZA86MUxnN4"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-12T08:30:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "በመኖሬ አዲስ ፊልም Bemenore New Ethiopian movie trailer",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6ZA86MUxnN4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6ZA86MUxnN4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6ZA86MUxnN4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-12T08:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "go09I4zlKTQzJuEIjbeSQAYmiIg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GViCcdgJutE"
+      },
+      "snippet": {
+        "publishedAt": "2026-04-06T07:30:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ሳልስልሽ ፊልም Salsilesh Ethiopian movie clip",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GViCcdgJutE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GViCcdgJutE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GViCcdgJutE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-04-06T07:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aNEaOPeWKI8J4JOKTWbg8UoFGbk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KMDrFknfIeA"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-20T04:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "እንሳሮ ሙሉ ፊልም Ensaro Ethiopian film 2020",
+        "description": "Join Sodere YouTube membership የሶደሬ ዩቲዩብ ቻናል ከፋይ ደንበኛ ይሁኑ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KMDrFknfIeA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KMDrFknfIeA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KMDrFknfIeA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-20T04:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JCmNyGjDI4027TggTkBzbwqtIYY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q1akdavhSiA"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-13T08:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ሀምሳ ሎሚፊልም የተቀነጨበ Clip from 50 LOMI film Ethiopian movie 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q1akdavhSiA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q1akdavhSiA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q1akdavhSiA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-13T08:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N-7yM2BAE9pllnD_F0HSQ9UmI2I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5DkrwNpKIuk"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-12T15:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ቃል ስጪኝ  ፊልም የተቀነጨበ Clip from Kal Sichign  film Ethiopian movie 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5DkrwNpKIuk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5DkrwNpKIuk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5DkrwNpKIuk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-12T15:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "laRiLZS2GE80H9W6ecMZuIwaSLM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oVG9bQlmBS4"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-12T08:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ዡልየት ፊልም የተቀነጨበ Clip from JULIET  film Ethiopian movie 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oVG9bQlmBS4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oVG9bQlmBS4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oVG9bQlmBS4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-12T08:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rI4fRU1tAIbImM1OQhWl6AmqTx4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xXRqG4hSJ2g"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-11T21:11:21Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ታገቢኛለሽ  ፊልም የተቀነጨበ Clip from tagebignalesh film Ethiopian movie 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xXRqG4hSJ2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xXRqG4hSJ2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xXRqG4hSJ2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-11T21:11:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uXWNCEht2irrcPlgz4-Ob5LT8N4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nMv354y9fzw"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-29T19:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "እቀፈኝ ፊልም የተቀነጨበ Clip from Ekefegn film Ethiopian movie 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nMv354y9fzw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nMv354y9fzw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nMv354y9fzw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-29T19:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QBMd2k_cyGqopxQOpPou7dUkB_4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jgtG6lX3_oI"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-29T13:01:27Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "እንዳትረሳው ፊልም የተቀነጨበ Clip from  Endateresaw film Ethiopian movie 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jgtG6lX3_oI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jgtG6lX3_oI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jgtG6lX3_oI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-29T13:01:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GAvEmxAy_eUbB8YyapviyKQNaAQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-G2HyvQTfJQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-28T19:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ቁማርተኞቹፊልም የተቀነጨበ Clip from QumareteNgochu  film Ethiopian movie 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-G2HyvQTfJQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-G2HyvQTfJQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-G2HyvQTfJQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-28T19:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PQZ1hmR2Dt5I-2BprFPGBobIKCE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PMy2QWTgV6s"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-28T07:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "የራስ መንገድ ፊልም ላይ የተቀነጨበ Clip Yeras Menged Ethiopian film 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PMy2QWTgV6s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PMy2QWTgV6s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PMy2QWTgV6s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-28T07:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dzBx28qzdwjgOiHuBYw-eSyBtyU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QnSVhvbjo6M"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-27T19:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ፋና ፊልም ላይ የተቀነጨበ Clip from FANA Ethiopian film 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QnSVhvbjo6M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QnSVhvbjo6M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QnSVhvbjo6M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-27T19:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xzK6h5Gv03YYNdQGFkIdcEHt0W0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5YoHS3E60Ok"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-27T13:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ማያዬ ፊልም ላይ የተቀነጨበ Clip from mayaye Ethiopian film 2024",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5YoHS3E60Ok/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5YoHS3E60Ok/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5YoHS3E60Ok/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-27T13:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "55YxOuCIHcDb72nTb86_nvkqU4Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7x4NgPEQhvI"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-27T07:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ለኔ ተዉት ፊልም ላይ የተቀነጨበ Clip from Lene Tewut Ethiopian film 2023",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7x4NgPEQhvI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7x4NgPEQhvI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7x4NgPEQhvI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-27T07:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I1H1-BP53Akl0owDex5Gmt_2K0k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-i4uraPKgUI"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-26T19:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "እምቢ አላረጅም ፊልም ላይ የተቀነጨበ Clip from Embi Alarejem Ethiopian film 2023",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-i4uraPKgUI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-i4uraPKgUI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-i4uraPKgUI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-26T19:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fHIApbU1whM38QMGLSUcnkKTTRI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xW_cmhoS860"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-26T13:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ሀምሳ ሎሚ ፊልም ላይ የተቀነጨበ Clip froml 50 Lomi  Ethiopian film 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xW_cmhoS860/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xW_cmhoS860/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xW_cmhoS860/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-26T13:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CBfOlS47j18qxEOS29_TYtxtSho",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Hm3SdKk-kbU"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-24T07:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ማን ያግባት ፊልም ላይ የተቀነጨበ Clip from ManYagbat Ethiopian film 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hm3SdKk-kbU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hm3SdKk-kbU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hm3SdKk-kbU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-24T07:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-x9CSdvNX7Gj77faoi8Xn9Bq-R8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OzkKVU8FQio"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-23T19:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "አትምጡብኝ ፊልም ላይ የተቀነጨበ Clip from atmtubigne Ethiopian film 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OzkKVU8FQio/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OzkKVU8FQio/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OzkKVU8FQio/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-23T19:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lvHENdnZGGXM3rTQtYm_EKHZDuY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9VAt4YgfeJ4"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-23T13:00:18Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ተታለሻል  ፊልም ላይ የተቀነጨበ Clip from tetelasheal Ethiopian film 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9VAt4YgfeJ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9VAt4YgfeJ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9VAt4YgfeJ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-23T13:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xg0Aj0oE3DriAZqRbLSqOCZLSk4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NgFdwgGv2s4"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-23T07:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ገናዡ ፊልም የተቀነጨበ Clip from genazjufilm Ethiopian movie 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NgFdwgGv2s4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NgFdwgGv2s4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NgFdwgGv2s4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-23T07:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eHwjVEJXhFCL0jNKP3I0hpoMsVo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vdIID0ZrUOE"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-22T13:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "በምን እንግባባ ፊልም የተቀነጨበ Clip from  Bemen Enegebaba  film Ethiopian movie 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vdIID0ZrUOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vdIID0ZrUOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vdIID0ZrUOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-22T13:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZtqSs3tl1vD0H6RItSEv9rAPSKI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TVxTfMNrOzA"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-22T07:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ወሪያ ፊልም የተቀነጨበ Clip from Werya  film Ethiopian movie 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TVxTfMNrOzA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TVxTfMNrOzA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TVxTfMNrOzA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-22T07:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CcWmUdv390yVLDou4ycq32hLqyA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JjcrkuVK4Ow"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-21T14:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "የፍቅር ማህተም ፊልም የተቀነጨበ Clip from  YFEKERE MHATEBE film Ethiopian movie 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JjcrkuVK4Ow/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JjcrkuVK4Ow/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JjcrkuVK4Ow/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-21T14:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eZBQ0fPQ-AL60rBDLQL1XrmglR8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2kpmheNQOhI"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-21T10:00:05Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ባንተ ላይ ፊልም የተቀነጨበ Clip from banete lay e film Ethiopian movie 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2kpmheNQOhI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2kpmheNQOhI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2kpmheNQOhI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-21T10:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Os2GNDJP9Kw3vQQag8zfvhT_SJE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6hfOeWYmmkg"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-17T07:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ታብ ታብ ፊልም የተቀነጨበ Clip from tab tab film Ethiopian movie 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6hfOeWYmmkg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6hfOeWYmmkg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6hfOeWYmmkg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-17T07:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uF-YdtN1-08YrZp5Gq0MQWsDSWI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7UxLFaEPmnU"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-16T19:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ያ ሰው ፊልም የተቀነጨበ Clip from ya saw film Ethiopian movie 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7UxLFaEPmnU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7UxLFaEPmnU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7UxLFaEPmnU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-16T19:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ILhOsfBZVjieZba0izzQN5sBMAg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DAKfbdQR8B4"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-16T13:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "አደረግሽኝ ቀና Clip from Aderekshign kena Ethiopian movie 2025",
+        "description": "አደረግሽኝ ቀና Clip from Aderekshign kena Ethiopian movie 2025.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DAKfbdQR8B4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DAKfbdQR8B4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DAKfbdQR8B4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-16T13:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PXy-TXlUE-YoPcYYDZ11isUk0ng",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZmH4xzCsC8A"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-16T04:53:56Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ውሀ እና ዘይት ፊልም የተቀነጨበ Clip from Weha Ena Zeyt film Ethiopian movie 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZmH4xzCsC8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZmH4xzCsC8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZmH4xzCsC8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-16T04:53:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "epL_s8n4QQOXDGaKMYTxsfkh9GI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AwLQ3Q84qBM"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-22T13:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ያበደ ዱርዬ ፊልም የተቀነጨበ Clip from yabede dureye film Ethiopian movie 2025",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AwLQ3Q84qBM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AwLQ3Q84qBM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AwLQ3Q84qBM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-22T13:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dFfjyLxivTJ7et7VYkcjlFnUbnI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hdn0-4igApM"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-19T14:15:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "ልስጥሽ  ፊልም የተቀነጨበ Clip from listesh film Ethiopian movie 2024",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hdn0-4igApM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hdn0-4igApM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hdn0-4igApM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-19T14:15:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p_9PlUjkmwFZUCJsUIfNZI3fzqE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ybFqZpcaPG0"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-06T10:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "አዲሱ ሰው ፊልም Adisu Sew Ethiopian film 2025",
+        "description": "አዲሱ ሰው ፊልም Adisu Sew Ethiopian film 2025.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ybFqZpcaPG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ybFqZpcaPG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ybFqZpcaPG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-06T10:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "luokLh_wg3Zka8mvjdWpHK6zBkQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P-Bw6lX5DXM"
+      },
+      "snippet": {
+        "publishedAt": "2025-02-06T07:45:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "የማይነካ ፊልም የተቀነጨበ Clip from  Yemayneka film Ethiopian movie 2024",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P-Bw6lX5DXM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P-Bw6lX5DXM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P-Bw6lX5DXM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-02-06T07:45:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X8W3ygop61pOoZW4EKbKMMIPsy0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hlyeXf4bsAw"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-10T08:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "የማዳም ቅመሞች  ፊልም የተቀነጨበ Clip from Yemadam Kememoch  film Ethiopian movie 2022",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hlyeXf4bsAw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hlyeXf4bsAw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hlyeXf4bsAw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-10T08:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oC2Lyin9NyOBO2GRJLErMRzD5bE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R2aydJPwJw4"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-09T08:00:06Z",
+        "channelId": "UCCTKQkoq2QGvozo-z8RJ_WQ",
+        "title": "100 ይቅርታ ፊልም የተቀነጨበ Clip from100 Yikerta film Ethiopian movie 2024",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R2aydJPwJw4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R2aydJPwJw4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R2aydJPwJw4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sodere TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-09T08:00:06Z"
+      }
+    }
+  ]
+}

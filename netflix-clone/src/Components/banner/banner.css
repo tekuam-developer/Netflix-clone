@@ -29,14 +29,27 @@
 }
 .discription{
     font-size: 30px;
-    padding: 30px 50% 0 0;
+    padding: 30px 50% 0 40px;
     color: slateblue;
 }
 .title{
     color: tomato;
     font-size: 50px;
+    font-weight: 900;
 }
 .Banner-button{
     width: 400px;
     margin: 0 auto;
+}
+
+@media(max-width:700px){
+    .text-content{
+    padding-top: 200px;
+    color: cadetblue;
+}
+.discription{
+    font-size: 25px;
+    padding: 20px;
+    color: slateblue;
+}
 }

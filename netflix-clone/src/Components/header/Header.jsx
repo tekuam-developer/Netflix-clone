@@ -1,60 +1,110 @@
-import "./header.css";
+import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
+
 import logo from "../../assets/images/logo.svg";
+
 import SearchIcon from "@mui/icons-material/Search";
 import NotificationsIcon from "@mui/icons-material/Notifications";
 import AccountBoxIcon from "@mui/icons-material/AccountBox";
-import KeyboardArrowDownIcon from "@mui/icons-material/KeyboardArrowDown";
+import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
+import MenuIcon from "@mui/icons-material/Menu";
+import CloseIcon from "@mui/icons-material/Close";
+
+import "./header.css";
+
 function Header() {
+  const [menuOpen, setMenuOpen] = useState(false);
+
+  // Open / close mobile menu
+  const toggleMenu = () => {
+    setMenuOpen((previous) => !previous);
+  };
+
+  // Close menu when a navigation link is clicked
+  const closeMenu = () => {
+    setMenuOpen(false);
+  };
+
+  // Close menu when ESC is pressed
+  useEffect(() => {
+    const handleKeyDown = (event) => {
+      if (event.key === "Escape") {
+        setMenuOpen(false);
+      }
+    };
+
+    document.addEventListener("keydown", handleKeyDown);
+
+    return () => {
+      document.removeEventListener("keydown", handleKeyDown);
+    };
+  }, []);
+
   return (
-    <>
-      <div className="container-fluid header-outer-wraper">
-        <div className="row align-items-center">
-          <div className="col-md-2 logo-wraper">
-            <Link to="/">
-              <img src={logo} alt="Netflix-logo" className="My-logo" />
-            </Link>
-          </div>
-          <div className="col-md-7 links">
-            <Link to="#home" className="col-md">
-              Home
-            </Link>
-            <Link to="#features" className="col-md">
-              TVShows
-            </Link>
-            <Link to="#pricing" className="col-md">
-              Movies
-            </Link>
-            <Link to="#home" className="col-md">
-              Latest
-            </Link>
-            <Link to="#features" className="col-md">
-              MyList
-            </Link>
-            <Link to="#pricing" className="col-md">
-              Browse By Languages
-            </Link>
-          </div>
-          <div className="My-menu col-5 text-center">
-            <i className="fa-solid fa-bars"></i>
-          </div>
-          <div className="icons col-md-2">
-            <li className="col-md">
-              <SearchIcon />
-            </li>
-            <li className="col-md">
-              <NotificationsIcon />
-            </li>
-            <li className="col-md">
-              <AccountBoxIcon />
-            </li>
-            <li className="col-md">
-              <KeyboardArrowDownIcon />
-            </li>
-          </div>
+    <header className="header-outer-wrapper">
+      <div className="header-container">
+        <div className="logo-wrapper">
+          <Link to="/" onClick={closeMenu}>
+            <img src={logo} alt="Netflix logo" className="my-logo" />
+          </Link>
         </div>
+
+        <nav
+          className={`navigation-links ${menuOpen ? "show-mobile-menu" : ""}`}
+        >
+          <Link to="/" onClick={closeMenu}>
+            Home
+          </Link>
+
+          <Link to="/tvshows" onClick={closeMenu}>
+            TV Shows
+          </Link>
+
+          <Link to="/movies" onClick={closeMenu}>
+            Movies
+          </Link>
+
+          <Link to="/latest" onClick={closeMenu}>
+            Latest
+          </Link>
+
+          <Link to="#" onClick={closeMenu}>
+            My List
+          </Link>
+
+          <Link to="#" onClick={closeMenu}>
+            Browse By Languages
+          </Link>
+        </nav>
+
+        <div className="header-icons">
+          <button className="header-icon" aria-label="Search">
+            <SearchIcon />
+          </button>
+
+          <button className="header-icon" aria-label="Notifications">
+            <NotificationsIcon />
+          </button>
+
+          <button className="header-icon" aria-label="Account">
+            <AccountBoxIcon />
+          </button>
+
+          <button className="header-icon" aria-label="Account menu">
+            <ArrowDropDownIcon />
+          </button>
+        </div>
+
+        <button
+          className="mobile-menu-button"
+          onClick={toggleMenu}
+          aria-label="Toggle navigation menu"
+          aria-expanded={menuOpen}
+        >
+          {menuOpen ? <CloseIcon /> : <MenuIcon />}
+        </button>
       </div>
-    </>
+    </header>
   );
 }
 
